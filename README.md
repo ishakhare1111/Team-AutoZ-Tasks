@@ -1,1 +1,3 @@
-# Team-AutoZ-Tasks
+Task 1:
+I've delved into the realm of assistance robots, recognizing their evolving role in various industries beyond traditional factory environments. Task 1 outlined the imperative of integrating AI and machine learning advancements into robots, enabling them to autonomously navigate real-world complexities. With a focus on installing Ubuntu 20.04 and ROS Noetic, I diligently set up my development environment, ensuring readiness for the challenges ahead. The task guided me through foundational ROS concepts, including the Catkin workspace and essential robotic simulation tools like RViz, Gazebo, URDF and XACRO. 
+Employing Python scripting, I successfully orchestrated the movement of a turtle within the turtlesim environment, executing precise circular and sine wave motions through a combination of linear and angular velocities.
