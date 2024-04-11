@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <world name="racetrack_world">
+
+    <!-- Include the sun and ground_plane -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <!-- Include the racetrack model -->
+    <include>
+      <uri>model://racetrack</uri>
+      <!-- Define the position and orientation of the racetrack -->
+      <pose>0 0 0 0 0 0</pose>
+    </include>
+
+  </world>
+</sdf>
